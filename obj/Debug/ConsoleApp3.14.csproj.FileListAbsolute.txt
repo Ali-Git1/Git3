@@ -1,0 +1,7 @@
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\bin\Debug\ConsoleApp3.14.exe.config
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\bin\Debug\ConsoleApp3.14.exe
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\bin\Debug\ConsoleApp3.14.pdb
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\obj\Debug\ConsoleApp3.14.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\obj\Debug\ConsoleApp3.14.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\obj\Debug\ConsoleApp3.14.exe
+C:\Users\ELViN\source\repos\ConsoleApp3.14\ConsoleApp3.14\obj\Debug\ConsoleApp3.14.pdb
